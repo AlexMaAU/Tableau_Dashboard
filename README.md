@@ -9,6 +9,5 @@ Data Analysis Conclusions:
 - The Airbnb market in Seattle is predominantly composed of listings with one or two bedrooms, with very few listings having five or more bedrooms. This suggests that apartments and small houses are more prevalent.
 - Based on market conditions, if considering entering the Airbnb market, it is advisable to focus on apartments and small houses. Renting out large houses may not necessarily meet the needs of users.
 
-![Dashboard 1](https://github.com/AlexMaAU/Tableau_Dashboard/assets/130563062/0df8aa6b-4ea2-4ffe-850c-ccc43bdba462)
 
-![Dashboard 2](https://github.com/AlexMaAU/Tableau_Dashboard/assets/130563062/183ff7f0-df5f-4641-8630-246b470120f7)
+![Dashboard](https://github.com/AlexMaAU/Tableau_Dashboard/assets/130563062/18527f65-d96a-493a-a76e-d44112c7882c)
